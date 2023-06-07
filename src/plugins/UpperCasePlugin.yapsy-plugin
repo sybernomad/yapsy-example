@@ -1,0 +1,10 @@
+[Core]
+Name = Upper Case Plugin
+Module = UpperCasePlugin
+
+[Documentation]
+Author = Your Name
+Version = 0.1
+Website = Your Website
+Description = Converts text to uppercase.
+
